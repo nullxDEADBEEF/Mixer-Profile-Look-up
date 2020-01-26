@@ -1,0 +1,39 @@
+body {
+    background-image: linear-gradient( to right, #141E30, #243B55 );
+    color: #2ecc71;
+}
+
+.change-left-margin {
+    margin-left: 14px;
+}
+
+.change-top-margin {
+    margin-top: 14px;
+}
+
+.searchbox-size {
+    width: 275px;
+    height: 35px;
+}
+
+.tab-content {
+    padding: 6px 12px;
+}
+
+.textbox-rounded {
+    border-radius: 5px;
+}
+
+.icon-size {
+    font-size: 50px;
+}
+
+.icon-color {
+    color: #2ecc71;
+}
+
+.title {
+    font-size: 27px;
+    color: #2ecc71;
+}
+
